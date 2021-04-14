@@ -3,7 +3,7 @@ Entrega Repositorio colaborativo
 
 <body>
 <h1>Nombres</h1>
-Vicente Silva Berrocal
+Vicente Silva Berrocal<br>
 Ignacio Vallejos Ebner
 
 <h1>Desarrollo</h1>
