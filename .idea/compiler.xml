@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
+<<<<<<< 06d93e2338a54a889c2131dd73530485b3b1f4ac
+        <module name="Hola_Mundo" />
+=======
+        <module name="HolaMundo2" />
+>>>>>>> /nacho
+<<<<<<< HEAD
+=======
+        <module name="Hola_Mundo" />
+>>>>>>> Agregado nombre
+=======
+        <module name="HolaMundo2" />
+        <module name="Hola_Mundo" />
+>>>>>>> Nacho
+=======
+>>>>>>> parent of b9da922... Agregado nombre
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
