@@ -11,8 +11,8 @@
         <module name="Hola_Mundo" />
 =======
         <module name="HolaMundo2" />
-<<<<<<< 06d93e2338a54a889c2131dd73530485b3b1f4ac
 >>>>>>> /nacho
+<<<<<<< HEAD
 =======
         <module name="Hola_Mundo" />
 >>>>>>> Agregado nombre
@@ -20,6 +20,8 @@
         <module name="HolaMundo2" />
         <module name="Hola_Mundo" />
 >>>>>>> Nacho
+=======
+>>>>>>> parent of b9da922... Agregado nombre
       </profile>
     </annotationProcessing>
   </component>
