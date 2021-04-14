@@ -9,5 +9,8 @@
         <module name="Hola_Mundo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Hola_Mundo" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>
