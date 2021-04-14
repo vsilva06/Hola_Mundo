@@ -8,11 +8,15 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
 <<<<<<< 06d93e2338a54a889c2131dd73530485b3b1f4ac
   <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="openjdk-16" project-jdk-type="JavaSDK">
 =======
   <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="openjdk-16" project-jdk-type="JavaSDK">
 >>>>>>> /nacho
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="openjdk-16" project-jdk-type="JavaSDK">
+>>>>>>> Nacho
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
