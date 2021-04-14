@@ -4,26 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
+
     <list default="true" id="1433cbee-9226-4b07-a942-e342ebb82561" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hola_Mundo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Hola_Mundo.iml" afterDir="false" />
-=======
+
     <list default="true" id="53fb217d-4497-4692-89dd-1b5463d5b84f" name="Default Changelist" comment="Progra Hola_Mundo repocitorio compartido">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
->>>>>>> parent of 9c47785... Revert "Merge remote-tracking branch 'origin/main' into main"
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
+
   <component name="TaskManager">
-=======
+
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -61,7 +61,7 @@
       <updated>1618417160765</updated>
     </task>
     <option name="localTasksCounter" value="2" />
->>>>>>> parent of 9c47785... Revert "Merge remote-tracking branch 'origin/main' into main"
+
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,13 +74,13 @@
         </entry>
       </map>
     </option>
-<<<<<<< HEAD
+
     <option name="oldMeFiltersMigrated" value="true" />
-=======
+
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Progra Hola_Mundo repocitorio compartido" />
     <option name="LAST_COMMIT_MESSAGE" value="Progra Hola_Mundo repocitorio compartido" />
->>>>>>> parent of 9c47785... Revert "Merge remote-tracking branch 'origin/main' into main"
+
   </component>
 </project>
