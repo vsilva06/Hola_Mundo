@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< 06d93e2338a54a889c2131dd73530485b3b1f4ac
 # Hola_Mundo
 Entrega Repositorio colaborativo
 
@@ -16,11 +14,3 @@ Para el trabajo en equivo el uso de un repositorio compartido, permite un flujo 
 En nuestro caso hacemos uso de gitKraken, la cual nos facilita la clonacion y visualizacion de los commits de una forma mas intuitiva. 
 
 </body>
-=======
-# HolaMundo2
-Entrega de repositorio conjunto
->>>>>>> /nacho
-=======
-# HolaMundo2
-Entrega de repositorio conjunto
->>>>>>> Nacho
