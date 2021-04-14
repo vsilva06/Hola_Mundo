@@ -7,10 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <module name="Hola_Mundo" />
 <<<<<<< HEAD
 =======
 =======
+=======
+>>>>>>> parent of 5d3b504... Agregado nombre
 =======
 >>>>>>> parent of 5d3b504... Agregado nombre
         <module name="HolaMundo2" />
