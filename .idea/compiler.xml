@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< 06d93e2338a54a889c2131dd73530485b3b1f4ac
         <module name="Hola_Mundo" />
+=======
+        <module name="HolaMundo2" />
+>>>>>>> /nacho
       </profile>
     </annotationProcessing>
   </component>

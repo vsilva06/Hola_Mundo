@@ -5,7 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
+<<<<<<< 06d93e2338a54a889c2131dd73530485b3b1f4ac
     <artifactId>Hola_Mundo</artifactId>
+=======
+    <artifactId>HolaMundo2</artifactId>
+>>>>>>> /nacho
     <version>1.0-SNAPSHOT</version>
 
     <properties>

@@ -1,2 +1,7 @@
+<<<<<<< 06d93e2338a54a889c2131dd73530485b3b1f4ac
 *.class
 target/
+=======
+target/
+*.class
+>>>>>>> /nacho
