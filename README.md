@@ -1,2 +1,2 @@
-# Hola_Mundo
-Entrega Repositorio colaborativo
+# HolaMundo2
+Entrega de repositorio conjunto
