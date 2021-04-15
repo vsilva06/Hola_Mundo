@@ -10,20 +10,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
         <module name="Hola_Mundo" />
-<<<<<<< HEAD
-=======
-=======
-=======
->>>>>>> parent of 5d3b504... Agregado nombre
-=======
->>>>>>> parent of 5d3b504... Agregado nombre
-=======
->>>>>>> parent of 5d3b504... Agregado nombre
-        <module name="HolaMundo2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Hola_Mundo" target="16" />
+      <module name="Hola_Mundo" target="15" />
     </bytecodeTargetLevel>
   </component>
 </project>
